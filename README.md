@@ -20,7 +20,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -49,7 +49,7 @@ plt.ylabel("Marks Scored")
 plt.title("simple Linear Regression - Marks Prediction")
 plt.legend()
 plt.show() 
-*/
+
 ```
 
 ## Output:
